@@ -180,6 +180,39 @@
         }
       },
       {
+        "HashCode": -2116028399,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Pages.EmployeeTugasPage",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmployeeTugasPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Pages.EmployeeTugasPage"
+        }
+      },
+      {
+        "HashCode": 1591528334,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Pages.EmployeeTugasPage",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFront.Pages.EmployeeTugasPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Pages.EmployeeTugasPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 996913549,
         "Kind": "Components.Component",
         "Name": "BlazorFront.Pages.Counter",
@@ -457,39 +490,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "BlazorFront.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 224785982,
-        "Kind": "Components.Component",
-        "Name": "BlazorFront.Shared.NavMenu",
-        "AssemblyName": "BlazorFront",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 764231059,
-        "Kind": "Components.Component",
-        "Name": "BlazorFront.Shared.NavMenu",
-        "AssemblyName": "BlazorFront",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFront.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13228,6 +13228,11 @@
     {
       "FilePath": "c:\\blazor\\BlazorFront\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\BlazorFront\\Pages\\EmployeeTugasPage.razor",
+      "TargetPath": "Pages\\EmployeeTugasPage.razor",
       "FileKind": "component"
     },
     {

@@ -5,11 +5,12 @@
 <table class="table table-striped">
     <thead>
         <tr>
-            <th>Employee ID</th>
+            <th>Employee Id</th>
             <th>First Name</th>
+            <th>Last Name</th>
             <th>Email</th>
+            <th>Date Of Birth</th>
             <th>Department ID</th>
-            <th>Action</th>
             <th></th>
         </tr>
     </thead>
@@ -19,7 +20,9 @@
             <tr>
                 <td>@emp.EmployeeId</td>
                 <td>@emp.FirstName</td>
+                <td>@emp.LastName</td>
                 <td>@emp.Email</td>
+                <td>@emp.dateOfBirth</td>
                 <td>@emp.DepartmentId</td>
                 <td><a href= "@($"employeedetail/{emp.EmployeeId}")" class="btn btn-info">details</a></td>
             </tr>
