@@ -312,35 +312,55 @@
         }
       },
       {
-        "HashCode": -1152422531,
+        "HashCode": -1077088630,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.App",
+        "Name": "BlazorFront.Pages.DetailTugasEmployee",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "DetailTugasEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.App"
+          "Common.TypeName": "BlazorFront.Pages.DetailTugasEmployee"
         }
       },
       {
-        "HashCode": -1372905175,
+        "HashCode": 1858271429,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.App",
+        "Name": "BlazorFront.Pages.DetailTugasEmployee",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFront.App"
+            "TagName": "BlazorFront.Pages.DetailTugasEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.App",
+          "Common.TypeName": "BlazorFront.Pages.DetailTugasEmployee",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -490,6 +510,72 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "BlazorFront.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 224785982,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Shared.NavMenu",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 764231059,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Shared.NavMenu",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFront.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1152422531,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.App",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.App"
+        }
+      },
+      {
+        "HashCode": -1372905175,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.App",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFront.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13228,6 +13314,11 @@
     {
       "FilePath": "c:\\blazor\\BlazorFront\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\BlazorFront\\Pages\\DetailTugasEmployee.razor",
+      "TargetPath": "Pages\\DetailTugasEmployee.razor",
       "FileKind": "component"
     },
     {
