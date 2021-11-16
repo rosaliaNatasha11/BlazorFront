@@ -12,10 +12,13 @@ namespace BlazorFront.Models
         public string LastName { get; set; }
         public string Email { get; set; }
         public DateTime dateOfBirth { get; set; }
-        public int Gender { get; set; }
+        public Gender Gender { get; set; }
         public Department Department { get; set; }
         public int DepartmentId { get; set; }
         public string DepartmentName { get; set; }
         public string PhotoPath { get; set; }
+    }
+    public enum Gender{
+        Male,Female
     }
 }
