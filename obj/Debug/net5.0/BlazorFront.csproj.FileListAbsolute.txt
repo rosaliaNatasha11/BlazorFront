@@ -644,3 +644,5 @@ C:\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DetailTugasEmploye
 C:\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\DetailTugasEmployee.razor.g.cs
 C:\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
 C:\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
+C:\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\AddEmployee.razor.g.cs
+C:\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\AddEmployee.razor.g.cs

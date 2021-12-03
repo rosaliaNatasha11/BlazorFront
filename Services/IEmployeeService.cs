@@ -11,5 +11,6 @@ namespace BlazorFront.Services
          Task<IEnumerable<Employee>> GetAll();
          Task<Employee> GetById(int id);
          Task<Employee> Update(int id,Employee employee);
+         Task<Employee> Add(Employee employee);
     }
 }

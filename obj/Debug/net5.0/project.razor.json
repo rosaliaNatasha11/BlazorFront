@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 863840960,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Pages.AddEmployee",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Pages.AddEmployee"
+        }
+      },
+      {
+        "HashCode": -99406001,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Pages.AddEmployee",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFront.Pages.AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Pages.AddEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -647651463,
         "Kind": "Components.Component",
         "Name": "BlazorFront.Pages.DepartmentPage",
@@ -200,6 +233,59 @@
         }
       },
       {
+        "HashCode": -725115679,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Pages.EditEmployee",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Pages.EditEmployee"
+        }
+      },
+      {
+        "HashCode": 621748007,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront.Pages.EditEmployee",
+        "AssemblyName": "BlazorFront",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFront.Pages.EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront.Pages.EditEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1403080180,
         "Kind": "Components.Component",
         "Name": "BlazorFront.Pages.EmployeePage",
@@ -361,59 +447,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFront.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -725115679,
-        "Kind": "Components.Component",
-        "Name": "BlazorFront.Pages.EditEmployee",
-        "AssemblyName": "BlazorFront",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EditEmployee"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Pages.EditEmployee"
-        }
-      },
-      {
-        "HashCode": 621748007,
-        "Kind": "Components.Component",
-        "Name": "BlazorFront.Pages.EditEmployee",
-        "AssemblyName": "BlazorFront",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFront.Pages.EditEmployee"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Pages.EditEmployee",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13392,6 +13425,11 @@
     {
       "FilePath": "c:\\blazor\\BlazorFront\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\BlazorFront\\Pages\\AddEmployee.razor",
+      "TargetPath": "Pages\\AddEmployee.razor",
       "FileKind": "component"
     }
   ],
